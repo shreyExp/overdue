@@ -1,0 +1,35 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+header{
+	display: flex;
+	width: 90%;
+	height: 30vh;
+	margin: auto;
+	align-items: center;
+	font-size: 50px;
+}
+
+
+.article{
+	/*display: flex;*/
+	width: 90%;
+	margin: auto;
+/*	min-height: 80vh; */
+	align-items: center;
+}
+
+.topic{
+	min-height: 7vh;
+	font-size: 30px;
+}
+
+.text-content{
+	font-size: 15px;
+}
